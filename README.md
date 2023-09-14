@@ -198,6 +198,8 @@ i) Using Laplacian Kernal
 ![dipt](https://github.com/praveenst13/IMPLEMENTATION-OF-FILTERSS/assets/118787793/3d539087-1986-40fe-a58f-76d278d1dbba)
 
 ii) Using Laplacian Operator
+
+
 ![diptlast](https://github.com/praveenst13/IMPLEMENTATION-OF-FILTERSS/assets/118787793/c0cd3941-b924-4538-82b0-bd54a67b676f)
 
 ## Result:
